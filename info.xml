@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<extension key="uk.co.vedaconsulting.extidandmembershiptype" type="module">
+  <file>extidandmembershiptype</file>
+  <name>Assign unique external identifier</name>
+  <description>Assign the external identifier for a new contact</description>
+  <license>AGPL-3.0</license>
+  <maintainer>
+    <author>MJW Consulting, Veda</author>
+    <email>mjw@mjwconsult.co.uk, support@vedaconsulting.co.uk</email>
+  </maintainer>
+  <urls>
+    <url desc="Main Extension Page">https://github.com/mattwire/uk.co.vedaconsulting.extidandmembershiptype</url>
+    <url desc="Licensing">http://www.gnu.org/licenses/agpl-3.0.html</url>
+  </urls>
+  <releaseDate>2019-04-23</releaseDate>
+  <version>1.2</version>
+  <develStage>stable</develStage>
+  <compatibility>
+    <ver>5.13</ver>
+  </compatibility>
+  <civix>
+    <namespace>CRM/Extidandmembershiptype</namespace>
+  </civix>
+</extension>
